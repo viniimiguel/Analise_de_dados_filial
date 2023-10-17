@@ -6,7 +6,6 @@ class Analise():
     def __init__(self):
         self.tabela = pd.read_excel('base_de_dados.xlsx')
 
-
     def mostrar_tabela(self):
         display(self.tabela)
 
