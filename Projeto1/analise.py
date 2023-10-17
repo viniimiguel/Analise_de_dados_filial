@@ -23,10 +23,3 @@ class Analise():
         display(ft_pd)
 
 
-
-
-analise = Analise()
-analise.mostrar_tabela()
-analise.faturamento_total()
-analise.faturamento_por_loja()
-analise.faturamento_por_produto()
