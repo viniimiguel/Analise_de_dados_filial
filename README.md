@@ -1,7 +1,12 @@
-# Analise_de_dados_filial
+# Analise_de_dados_filial <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
+
+
 ## A análise de dados realizada utilizando a base de dados criada por meio do script de geração de base de dados por elaborado por mim.
+
 ![base](https://github.com/viniimiguel/Analise_de_dados_filial/assets/144070822/dfd6a9a7-bf8e-4921-ae84-4986a4a9cf34)
+
 ### aqui esta o link para o repositorio do meu script de geração de base de dados: https://github.com/viniimiguel/Gerador_de_base_de_dados
+
 ### Considerando a base de dados, meu desafio consistiu em extrair as seguintes informações: o faturamento total somando todas as filiais, o faturamento de cada filial individualmente e o faturamento por produtos em cada filial.
 Iniciei obtendo o valor do faturamento de todas as filiais em conjunto: ![faturamento_total](https://github.com/viniimiguel/Analise_de_dados_filial/assets/144070822/70d74b27-c7a1-4505-93fd-bd050b30528e)
 
